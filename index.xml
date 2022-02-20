@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jearel Alcántara</title>
+    <link>https://jearel.com/</link>
+    <description>Recent content on Jearel Alcántara</description>
+    <image>
+      <url>https://jearel.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://jearel.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 20 Feb 2022 01:22:08 -0400</lastBuildDate><atom:link href="https://jearel.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Instalando ROracle en R/Rstudio para Windows</title>
+      <link>https://jearel.com/blog/2022/instalando-roracle-rstudio-windows/</link>
+      <pubDate>Sun, 20 Feb 2022 01:22:08 -0400</pubDate>
+      
+      <guid>https://jearel.com/blog/2022/instalando-roracle-rstudio-windows/</guid>
+      <description>Una pequeña guía para instalar el driver de Oracle en R e interactuar con Oracle RMDB desde R/Rstudio</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://jearel.com/contact/</link>
+      <pubDate>Sun, 27 Jun 2021 15:11:18 -0400</pubDate>
+      
+      <guid>https://jearel.com/contact/</guid>
+      <description>eMail jeasoft@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://jearel.com/about/</link>
+      <pubDate>Thu, 24 Jun 2021 11:05:15 -0400</pubDate>
+      
+      <guid>https://jearel.com/about/</guid>
+      <description>My life is a work in progress, but currently I&amp;rsquo;m living in the Dominican Republic. I have been a variety of roles in the IT industry, like DBA, Sysadmin, Backend engineer, Data analyst/engineer, but now I&amp;rsquo;m working as a DevOps Engineer.
+I like the alcohol (mostly beer and whisky) and talk about Tech Industry, movies and music (from the Dominican Dembow to Norwegian Black Metal, I don&amp;rsquo;t fave frontiers).
+You can find me in almost every Social Network/games (if I play it , of course) as @jeasoft.</description>
+    </item>
+    
+    
+  </channel>
+</rss>
